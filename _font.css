@@ -1,0 +1,83 @@
+.ff-cn{
+    font-family: 'Pingfang SC';
+}
+
+.ff-en{
+    font-family: sans-serif;
+}
+
+.ff-num{
+    font-family: Helvetica;
+}
+
+.fs1{
+    font-size: 38px;
+}
+
+.fs2{
+    font-size: 30px;
+}
+
+.fs3{
+    font-size: 24px;
+}
+
+.fs4{
+    font-size: 20px;
+}
+
+.fs5{
+    font-size: 16px;
+}
+
+.fs6{
+    font-size: 14px;
+}
+
+.fs7{
+    font-size: 12px;
+}
+
+.fc-title{
+    color: #000;
+    opacity: .85;
+}
+
+.fc-body{
+    color: #000;
+    opacity: .65;
+}
+
+.fc-caption{
+    color: #000;
+    opacity: .45;
+}
+
+.fc-disable{
+    color: #000;
+    opacity: .25;
+}
+
+.fc-link{
+    color: #1890ff;
+}
+
+.fc-success{
+    color: #25c589;
+}
+
+.fc-caution{
+    color: #fea242;
+}
+
+.fc-fail{
+    color: #f05050;
+}
+
+.fc-process{
+    color: #45c8dc;
+}
+
+.fc-disabled{
+    color: #ccc;
+}

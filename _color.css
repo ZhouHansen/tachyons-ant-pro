@@ -1,0 +1,87 @@
+.c-bg-main{
+    background-color: #45c8dc; 
+}
+
+.c-bg-main:hover{
+    background-color: #3db3c5;
+}
+
+.c-bg-main:active{
+    background-color: #36a0b0;
+}
+
+.c-bg-list:hover{
+    background-color: #ecf9fb;
+}
+
+.c-bg-main-hl{
+    background-color: #45c8dc;
+}
+
+.c-bg-side{
+    background-color: #3b4966; 
+}
+
+.c-bg-side-hl{
+    background-color: #56678a; 
+}
+
+.c-bg-page{
+    background-color: #f3f7fd; 
+}
+
+.c-b--border{
+    border-color: #d9d9d9;
+}
+
+.c-bg-hr{
+    background-color: #e8e8e8; 
+}
+
+.c-bg-ghost{
+    background-color: #fff;
+}
+
+.c-bg-ghost:not(.disabled):hover{
+    background-color: #e5e5e5;
+}
+
+.c-bg-ghost:not(.disabled):active{
+    background-color: #ccc;
+}
+
+.c-bg-ghost.disabled{
+    background-color: #f7f7f7;
+}
+
+.cs-bg-success{
+    background-color: #25c589;
+}
+
+.cs-bg-caution{
+    background-color: #fea242;
+}
+
+.cs-bg-fail{
+    background-color: #f05050;
+}
+
+.cs-bg-process{
+    background-color: #45c8dc;
+}
+
+.cs-bg-disabled{
+    background-color: #ccc;
+}
+
+.cs-b--fail{
+    border-color: #f05050;
+}
+
+.cs-b--process{
+    border-color: #45c8dc;
+}
+
+.cs-b--process-h:hover{
+    border-color: #45c8dc;
+}

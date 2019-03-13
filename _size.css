@@ -1,0 +1,25 @@
+/* 短下拉菜单 */
+.s-s{
+    width: 160px;
+    height: 32px;
+}
+/* 搜索框，列表筛选菜单中的日期选择器 */
+.s-m2{
+    width: 272px;
+    height: 32px;
+}
+/* 一般组件 输入框 表单中的日期选择器 */
+.s-m{
+    width: 280px;
+    height: 34px;
+}
+/* 长组件 标题类输入框*/
+.s-l{
+    width: 740px;
+    height: 34px;
+}
+/* 长编辑框 */
+.s-l-area{
+    width: 740px;
+    height: 88px;
+}
